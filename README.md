@@ -1,7 +1,6 @@
 ## <h1 align="center">Hi 👋, Welcome to Mohamed Ashraf's Profile</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Laravel Ecommerce Project**
 
 - 🌱 I’m currently learning **System Design**
 
