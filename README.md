@@ -2,13 +2,13 @@
 <h3 align="center">A passionate software developer from Egypt</h3>
 
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **System Design** **Distributed Systems**
 
 - 👯 I’m looking to collaborate on **SAAS Open Source**
 
 - 🤝 I’m looking for help with **Medical Open Source**
 
-- 💬 Ask me about **Node.js, Express.js, Laravel**
+- 💬 Ask me about **Node.js, Nest.js, Laravel, Microservices, Database Internals**
 
 - 📫 How to reach me **mashraf.14697@gmail.com**
 
