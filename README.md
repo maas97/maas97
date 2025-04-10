@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Egypt</h3>
 
 
-- 🌱 I’m currently learning **System Design** **Distributed Systems**
+- 🌱 I’m currently learning **System Design,** **Distributed Systems**
 
 - 👯 I’m looking to collaborate on **SAAS Open Source**
 
